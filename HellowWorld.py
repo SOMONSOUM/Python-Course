@@ -10,6 +10,8 @@ print(2 * 3 + 4 - 1 - 6 / 5)
 print(greeting + ' ' + name + '\n ')
 print("\t\t\tSecond step")
 print("==================================================")
-greeting = "Welcome"
-name = input("Please input your name here: ")
-print(greeting + ' ' + name)
+# greeting = "Welcome"
+# name = input("Please input your name here: ")
+# print(greeting + ' ' + name)
+print("-You can split sring by using \\n ")
+print("-You can comment multiple lines by using \nshortcut key is 'Ctrl+/'")
