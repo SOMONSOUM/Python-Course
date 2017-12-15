@@ -1,5 +1,5 @@
 print("\nWelcome to Python from zero to one\n")
-print("Instructor: SOUM Somon\nFrom: ITC\n")
+print("Student: SOUM Somon\nFrom: ITC\n")
 print("\t\t\tFirst step")
 print("==================================================")
 name = "SOUM Somon"
