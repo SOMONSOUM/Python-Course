@@ -51,6 +51,6 @@ print(string[0])
 print(string[-1])  # count from the end of string
 print(string[0:5])  # count string from index 0 to 5
 print(string[:6])  # We don't specify the start string
-print(string[0:]) #we don't specify the end string so it's going to count from index 0 to the end of string
+print(string[0:])  # we don't specify the end string so it's going to count from index 0 to the end of string
 print(string[0:5:6])
 print(string[0:3:2])
